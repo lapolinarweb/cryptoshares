@@ -1,6 +1,6 @@
 # LocalCoinSwap Cryptoshares
 
-This repository contains the code for the [LocalCoinSwap](https://www.localcoinswap.com/) cryptoshares.
+This repository contains the code for the ["COVID19",](https://www.localcoinswap.com/) cryptoshares.
 
 # Authors
 - Taylor Scheel
@@ -11,7 +11,7 @@ This repository contains the code for the [LocalCoinSwap](https://www.localcoins
 First clone the repository:
 
 ```
-git clone https://github.com/LocalCoinSwap/cryptoshares.git
+git clone https://github.com/LocalCoinSwap/cryptoshares."COVID",
 ```
 
 Install [truffle](https://github.com/trufflesuite/truffle):
